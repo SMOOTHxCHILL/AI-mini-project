@@ -56,3 +56,39 @@ Install the required dependencies:
 
 ```bash
 pip install pandas scikit-learn numpy
+```
+
+## How to Run
+
+1. **Clone the repository:**
+```bash
+git clone https://github.com/your-username/content-based-news-recommendation.git
+```
+
+2. **Navigate to the project directory:**
+```bash
+cd content-based-news-recommendation
+```
+
+3. **Update the dataset path if required.**
+
+4. **Run the script:**
+```bash
+python Content-Based\ News\ Recommendation\ Using\ TF-IDF\ and\ Cosine\ Similarity.py
+```
+
+5. **Enter an article index when prompted.**
+
+## Sample Output
+```bash
+Because you liked:
+[POLITICS] Senate passes major reform bill
+
+You might also like:
+- [POLITICS] Lawmakers debate new policy changes
+- [POLITICS] Election reform gains momentum
+- [POLITICS] Government announces legislative update
+```
+## License
+
+This project is intended for educational and academic use.
